@@ -1,8 +1,12 @@
 <h1>README.md</h1>
 - 👋 Hi, I’m @James-Crowfoot
+
 - 👀 I’m interested in coding in python
+
 - 🌱 I’m currently learning computer science gcse
+  
 - 😄 Pronouns: He/Him
+  
 - ⚡ Fun fact: I collect bus numbers
 
 <!---
