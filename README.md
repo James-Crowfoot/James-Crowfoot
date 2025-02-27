@@ -6,8 +6,10 @@
 - 🌱 I’m currently learning computer science gcse
   
 - 😄 Pronouns: He/Him
-  
-- ⚡ Fun fact: I collect bus numbers
+
+- 💾 I am currently working on a Computer Science Revision Quiz - Go check it out!
+
+- ⚡ Fun fact: I volunteer on a heritage railway
 
 <!---
 James-Crowfoot/James-Crowfoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
